@@ -1,0 +1,32 @@
+[
+  {
+    "dni": 12345678,
+    "nombre": "Roxana",
+    "habilidades": [
+      {
+        "nombre": "JavaScript",
+        "nivel": "Avanzado"
+      }
+    ],
+    "estudios": [
+      {
+        "titulo": "Licenciatura en Informática",
+        "institucion": "Universidad X",
+        "anio": 2022
+      }
+    ],
+    "experiencias": [
+      {
+        "empresa": "Tech Company",
+        "puesto": "Desarrollador",
+        "desde": 2020,
+        "hasta": 2023
+      }
+    ],
+    "expectativas": [
+      {
+        "descripcion": "Crecimiento profesional en el área de desarrollo"
+      }
+    ]
+  }
+]

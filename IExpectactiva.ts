@@ -1,0 +1,3 @@
+interface IExpectativa {
+    descripcion: string;
+}
