@@ -1,11 +1,22 @@
 {
-  "compilerOptions": {
-    "target": "es2016",
-    "module": "commonjs",
-    "strict": true,
-    "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
-    "skipLibCheck": true,
-    "outDir": "./dist" 
+  "name": "portfolio-app",
+  "version": "1.0.0",
+  "description": "Aplicación de gestión de portfolio en TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run build && node dist/index.js", 
+    "build": "tsc" 
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.0.0" 
   }
 }
+
+
+  
+
+
+
+
+
